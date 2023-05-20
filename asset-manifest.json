@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sidheshwarchoure.github.io/frontend4contest2/static/css/main.32042b4c.css",
-    "main.js": "/sidheshwarchoure.github.io/frontend4contest2/static/js/main.2d1af245.js",
-    "static/js/787.ed6d5a82.chunk.js": "/sidheshwarchoure.github.io/frontend4contest2/static/js/787.ed6d5a82.chunk.js",
-    "index.html": "/sidheshwarchoure.github.io/frontend4contest2/index.html",
-    "main.32042b4c.css.map": "/sidheshwarchoure.github.io/frontend4contest2/static/css/main.32042b4c.css.map",
-    "main.2d1af245.js.map": "/sidheshwarchoure.github.io/frontend4contest2/static/js/main.2d1af245.js.map",
-    "787.ed6d5a82.chunk.js.map": "/sidheshwarchoure.github.io/frontend4contest2/static/js/787.ed6d5a82.chunk.js.map"
+    "main.css": "/frontend4contest2/static/css/main.32042b4c.css",
+    "main.js": "/frontend4contest2/static/js/main.0712e17e.js",
+    "static/js/787.ed6d5a82.chunk.js": "/frontend4contest2/static/js/787.ed6d5a82.chunk.js",
+    "index.html": "/frontend4contest2/index.html",
+    "main.32042b4c.css.map": "/frontend4contest2/static/css/main.32042b4c.css.map",
+    "main.0712e17e.js.map": "/frontend4contest2/static/js/main.0712e17e.js.map",
+    "787.ed6d5a82.chunk.js.map": "/frontend4contest2/static/js/787.ed6d5a82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32042b4c.css",
-    "static/js/main.2d1af245.js"
+    "static/js/main.0712e17e.js"
   ]
 }
